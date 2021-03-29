@@ -38,8 +38,9 @@ public class DisplayCodeTest {
     @AfterEach
     public void tearDown() {
     }
-
-     fail("Hello Everyone ");
+    @Test
+    public void Failingtest() {
+        fail("Hello Everyone ");
     }
     @Test
     public void testEquality(){
