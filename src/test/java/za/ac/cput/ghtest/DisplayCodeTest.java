@@ -42,19 +42,19 @@ public class DisplayCodeTest {
     public void Failingtest() {
         fail("Hello Everyone ");
     }
-    @Test
+    @Test //kevin Mombo
     public void testEquality(){
         String obj1 = "Junit";
         String obj2 = "Junit";
         assertEquals(obj1, obj2);
     }
-    @Test
+    @Test //Kevin Mombo
     public void testIdentity(){
         String obj3 = "Kevin";
         String obj4 = "Kevin";
         assertSame(obj3, obj4);
     }
-    @Test
+    @Test //Kevin Mombo
     @Disabled
     public void disabledTest(){
      int a = 12;
