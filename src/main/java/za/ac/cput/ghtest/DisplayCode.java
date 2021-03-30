@@ -7,7 +7,7 @@ package za.ac.cput.ghtest;
 
 /**
  *
- * @author 
+ * @author Kevin Mombo
  * 
  * PLEASE ENTER YOUR CODE BELOW!
  */
