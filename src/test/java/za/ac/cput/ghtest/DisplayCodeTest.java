@@ -15,7 +15,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author
+ * @author Kevin Mombo 
+ Student branch
  * ENTER CODE BELOW!
  */
 public class DisplayCodeTest {
