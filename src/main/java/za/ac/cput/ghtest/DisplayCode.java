@@ -11,6 +11,22 @@ package za.ac.cput.ghtest;
  * 
  * PLEASE ENTER YOUR CODE BELOW!
  */
+public class Animal {
+private String animalName;
+
+    public String getAnimalName() {
+        return animalName;
+    }
+
+    public void setAnimalName(String animalName) {
+        this.animalName = animalName;
+    }
+
+    @Override
+    public String toString() {
+        return "Animal{" + "animalName=" + animalName + '}';
+    }
+
 public class DisplayCode {
     
 }
