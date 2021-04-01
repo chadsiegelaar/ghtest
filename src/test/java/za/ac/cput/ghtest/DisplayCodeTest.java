@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author
+ * @author Levi Williams Student Number 218250142
  * ENTER CODE BELOW!
  */
 public class DisplayCodeTest {

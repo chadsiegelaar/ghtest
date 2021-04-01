@@ -7,7 +7,7 @@ package za.ac.cput.ghtest;
 
 /**
  *
- * @author 
+ * @author Levi Williams Student Number 218250142
  * 
  * PLEASE ENTER YOUR CODE BELOW!
  */
